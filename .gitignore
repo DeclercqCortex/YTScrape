@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local, machine-specific
+settings.json
+bin/
+
+# Downloads / temp
+.ytscrape_tmp/
+downloaded_archive.txt

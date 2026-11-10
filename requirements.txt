@@ -1,0 +1,4 @@
+yt-dlp[default]>=2026.10.26
+imageio-ffmpeg>=0.5
+customtkinter>=5.2
+pillow>=10
